@@ -8,3 +8,13 @@ C:\!dev\Crypto\Crypto\obj\Debug\Crypto.csproj.CoreCompileInputs.cache
 C:\!dev\Crypto\Crypto\obj\Debug\Crypto.exe
 C:\!dev\Crypto\Crypto\obj\Debug\Crypto.pdb
 C:\!dev\Crypto\Crypto\obj\Debug\Crypto.MainForm.resources
+C:\Users\Marvin\Documents\GitHub\Verschluessler-Oberflaeche\Crypto\bin\Debug\Crypto.exe.config
+C:\Users\Marvin\Documents\GitHub\Verschluessler-Oberflaeche\Crypto\bin\Debug\Crypto.exe
+C:\Users\Marvin\Documents\GitHub\Verschluessler-Oberflaeche\Crypto\bin\Debug\Crypto.pdb
+C:\Users\Marvin\Documents\GitHub\Verschluessler-Oberflaeche\Crypto\obj\Debug\Crypto.csprojAssemblyReference.cache
+C:\Users\Marvin\Documents\GitHub\Verschluessler-Oberflaeche\Crypto\obj\Debug\Crypto.MainForm.resources
+C:\Users\Marvin\Documents\GitHub\Verschluessler-Oberflaeche\Crypto\obj\Debug\Crypto.Properties.Resources.resources
+C:\Users\Marvin\Documents\GitHub\Verschluessler-Oberflaeche\Crypto\obj\Debug\Crypto.csproj.GenerateResource.cache
+C:\Users\Marvin\Documents\GitHub\Verschluessler-Oberflaeche\Crypto\obj\Debug\Crypto.csproj.CoreCompileInputs.cache
+C:\Users\Marvin\Documents\GitHub\Verschluessler-Oberflaeche\Crypto\obj\Debug\Crypto.exe
+C:\Users\Marvin\Documents\GitHub\Verschluessler-Oberflaeche\Crypto\obj\Debug\Crypto.pdb
